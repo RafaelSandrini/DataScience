@@ -1,6 +1,6 @@
 ## Titanic
 
-This challenge is an exercise from [Kaggle]([https://www.hackerearth.com/challenges/competitive/get-a-room-ml-hackathon/](https://www.kaggle.com/competitions/titanic)).
+This challenge is an exercise from [Kaggle](https://www.kaggle.com/competitions/titanic).
 
 ### Problem Statement
 *The sinking of the Titanic is one of the most infamous shipwrecks in history.*
